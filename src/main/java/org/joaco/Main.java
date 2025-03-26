@@ -1,7 +1,15 @@
 package org.joaco;
 
+import org.joaco.repository.SqlLiteConnection;
+
+import java.sql.SQLException;
+
 public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!");
+    public static void main(String[] args) throws SQLException {
+
+
+
+
+
     }
 }
